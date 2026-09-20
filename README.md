@@ -1,45 +1,451 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# Hey, I'm Rohan Vimal 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan11110&label=Profile%20views&color=0e75b6&style=flat" alt="rohan11110" /> </p>
+### Software Engineer • Full-Stack Developer • Problem Solver
 
-- 🌱 I’m currently learning **REACT.JS**
+Building **scalable web applications, real-time systems, and developer-focused tools**.
 
-- 💬 Ask me about **MERN & DSA**
+<br/>
 
-- 📫 How to reach me **rohan2k25@gmail.com**
+<a href="https://linkedin.com/in/rohanvimal">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rohan2k25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/rohan_vimal">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://github.com/rohan11110">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohanvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanvimal" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.rohan_1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rohan_1110" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohan_vimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan_vimal" height="30" width="40" /></a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rohan11110&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const rohan = {
+    role: "Software Engineer",
+
+    focus: [
+        "Full-Stack Development",
+        "Real-Time Applications",
+        "Developer Tools",
+        "Scalable Web Systems"
+    ],
+
+    frontend: [
+        "React.js",
+        "Next.js",
+        "JavaScript",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "Socket.IO"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    languages: [
+        "JavaScript",
+        "Java",
+        "SQL"
+    ],
+
+    currentlyExploring: [
+        "TypeScript",
+        "System Design",
+        "Web Performance",
+        "Scalable Architecture"
+    ],
+
+    philosophy: "Build. Break. Understand. Improve."
+};
+```
+
+I enjoy working on products where **frontend engineering, backend architecture, real-time communication, and user experience** come together.
+
+Rather than only making applications work, I'm interested in understanding **why they work, how they fail, and how they can scale.**
+
+---
+
+## ⚡ Engineering Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Engineering
+
+Building end-to-end applications with modern frontend and backend technologies.
+
+`React` `Next.js` `Node.js` `Express`
+
+</td>
+<td width="50%">
+
+### ⚡ Real-Time Systems
+
+Building applications with live communication and synchronized application state.
+
+`Socket.IO` `WebSockets` `Firebase`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Developer Tools
+
+Exploring tools that make programming easier to understand and debug.
+
+`Java` `Execution Tracing` `Monaco`
+
+</td>
+<td width="50%">
+
+### 🏗️ Application Architecture
+
+Designing maintainable application structures and scalable APIs.
+
+`REST` `MongoDB` `MySQL` `Git`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,cpp,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan11110&show_icons=true&locale=en&layout=compact" alt="rohan11110" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan11110&show_icons=true&locale=en" alt="rohan11110" /></p>
+### Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan11110&" alt="rohan11110" /></p>
-<!--
-**rohan11110/rohan11110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-Here are some ideas to get you started:
+### Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
+### Tools & Platforms
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vite" />
+</p>
+
+---
+
+# 🚀 Featured Engineering Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 Code Visualizer
+
+An experimental developer tool designed to **visualize program execution step-by-step**.
+
+```text
+Source Code
+     ↓
+Instrumentation
+     ↓
+Compilation
+     ↓
+Execution
+     ↓
+Trace Parser
+     ↓
+Snapshots
+     ↓
+Visualization
+```
+
+**Engineering Areas**
+
+`Java` `React` `Node.js` `Monaco Editor`
+
+• Execution tracing
+• Variable-state snapshots
+• Array visualization
+• Recursion tracing
+• Code instrumentation
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💬 QuickChat
+
+Real-time messaging application built around persistent conversations and live communication.
+
+```text
+React Client
+     ↓
+Socket.IO
+     ↓
+Node / Express
+     ↓
+MongoDB
+```
+
+**Engineering Areas**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+• Real-time messaging
+• Authentication
+• Conversation persistence
+• Socket lifecycle
+• Responsive UI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🏪 Youlyst
+
+Full-stack marketplace platform supporting product listings and user workflows.
+
+```text
+Next.js
+   ↓
+Application Layer
+   ↓
+REST APIs
+   ↓
+MongoDB
+```
+
+**Engineering Areas**
+
+`Next.js` `React` `Node.js` `MongoDB`
+
+• Listings
+• Search & filters
+• Pagination
+• Authentication
+• Media management
+• Real-time features
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏋️ GymPlanr
+
+Interactive workout planning application focused on flexible scheduling and visualization.
+
+```text
+Workout Data
+     ↓
+Redux State
+     ↓
+Drag & Drop
+     ↓
+Analytics
+```
+
+**Engineering Areas**
+
+`React` `Redux Toolkit` `Tailwind` `dnd-kit` `Recharts`
+
+• Workout planning
+• Drag-and-drop interactions
+• State management
+• Progress visualization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 How I Think About Engineering
+
+```text
+                         PRODUCT
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+         FRONTEND        BACKEND         DATA
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                            ▼
+                       ARCHITECTURE
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+         PERFORMANCE     SECURITY     RELIABILITY
+              │             │             │
+              └─────────────┼─────────────┘
+                            ▼
+                       USER EXPERIENCE
+```
+
+For me, software engineering isn't just about writing code.
+
+It's about understanding the entire journey from:
+
+**user interaction → application state → API → database → infrastructure → response.**
+
+---
+
+# 🔬 Currently Exploring
+
+```text
+System Design
+     │
+     ├── Scalability
+     ├── Caching
+     ├── Database Design
+     ├── API Architecture
+     └── Distributed Systems
+
+Frontend Engineering
+     │
+     ├── Next.js
+     ├── TypeScript
+     ├── Performance
+     ├── Rendering
+     └── Architecture
+
+Backend Engineering
+     │
+     ├── Node.js
+     ├── Authentication
+     ├── WebSockets
+     ├── API Design
+     └── Background Processing
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan11110&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan11110&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan11110&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan11110&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rohan11110/rohan11110/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+> The contribution snake requires a GitHub Actions workflow to generate the SVG.
+
+---
+
+# 💡 Engineering Interests
+
+<div align="center">
+
+`Full-Stack Development`
+  •  
+`Developer Tools`
+  •  
+`System Design`
+  •  
+`Real-Time Systems`
+
+`Web Performance`
+  •  
+`Scalable APIs`
+  •  
+`Open Source`
+  •  
+`Problem Solving`
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing **software engineering, interesting products, developer tools, open source, and challenging engineering problems**.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rohanvimal">
+<img src="https://img.shields.io/badge/LinkedIn-Rohan_Vimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohan2k25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-rohan2k25-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/rohan_vimal">
+<img src="https://img.shields.io/badge/LeetCode-rohan__vimal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `while(alive) { learn(); build(); improve(); }`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+
+</div>
