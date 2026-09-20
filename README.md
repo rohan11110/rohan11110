@@ -1,49 +1,77 @@
 <div align="center">
 
-# Hey, I'm Rohan Vimal 👋
-
-### Software Engineer • Full-Stack Developer • Problem Solver
-
-Building **scalable web applications, real-time systems, and developer-focused tools**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=ROHAN%20VIMAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <br/>
 
+<a href="https://github.com/rohan11110">
+<img src="https://img.shields.io/badge/GitHub-rohan11110-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/rohanvimal">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Rohan%20Vimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rohan2k25@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.leetcode.com/rohan_vimal">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://github.com/rohan11110">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://leetcode.com/rohan_vimal">
+<img src="https://img.shields.io/badge/LeetCode-rohan__vimal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rohan11110&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rohan11110&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```javascript
+## ⚡ Building Software That Solves Real Problems
+
+</div>
+
+```text id="3xk2pn"
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   👨‍💻  SOFTWARE ENGINEER                                    │
+│                                                              │
+│   Building modern web applications, real-time systems,      │
+│   developer tools and production-focused software.          │
+│                                                              │
+│   React • Next.js • Node.js • MongoDB • Java • WebSockets    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+### `Build → Break → Understand → Improve`
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+```javascript id="m9j7xq"
 const rohan = {
+    name: "Rohan Vimal",
     role: "Software Engineer",
+
+    location: "India",
 
     focus: [
         "Full-Stack Development",
-        "Real-Time Applications",
+        "Real-Time Systems",
         "Developer Tools",
-        "Scalable Web Systems"
+        "Scalable Web Applications"
     ],
 
     frontend: [
-        "React.js",
+        "React",
         "Next.js",
         "JavaScript",
         "Tailwind CSS"
@@ -56,7 +84,7 @@ const rohan = {
         "Socket.IO"
     ],
 
-    databases: [
+    database: [
         "MongoDB",
         "MySQL"
     ],
@@ -67,306 +95,320 @@ const rohan = {
         "SQL"
     ],
 
-    currentlyExploring: [
-        "TypeScript",
+    interests: [
         "System Design",
         "Web Performance",
-        "Scalable Architecture"
-    ],
-
-    philosophy: "Build. Break. Understand. Improve."
+        "DSA",
+        "Software Architecture"
+    ]
 };
 ```
 
-I enjoy working on products where **frontend engineering, backend architecture, real-time communication, and user experience** come together.
-
-Rather than only making applications work, I'm interested in understanding **why they work, how they fail, and how they can scale.**
+<br clear="right"/>
 
 ---
 
-## ⚡ Engineering Focus
+# 🧠 What I Build
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
 
-### 🌐 Full-Stack Engineering
+<td align="center" width="25%">
 
-Building end-to-end applications with modern frontend and backend technologies.
+### 🌐
 
-`React` `Next.js` `Node.js` `Express`
+### Full-Stack
 
-</td>
-<td width="50%">
-
-### ⚡ Real-Time Systems
-
-Building applications with live communication and synchronized application state.
-
-`Socket.IO` `WebSockets` `Firebase`
+Building complete products from UI to database.
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🧠 Developer Tools
+### ⚡
 
-Exploring tools that make programming easier to understand and debug.
+### Real-Time
 
-`Java` `Execution Tracing` `Monaco`
+WebSockets, live state and event-driven applications.
 
 </td>
-<td width="50%">
 
-### 🏗️ Application Architecture
+<td align="center" width="25%">
 
-Designing maintainable application structures and scalable APIs.
+### 🧩
 
-`REST` `MongoDB` `MySQL` `Git`
+### Developer Tools
+
+Tools that make programming easier to understand.
 
 </td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+### Architecture
+
+Designing maintainable and scalable systems.
+
+</td>
+
 </tr>
 </table>
 
----
-
-# 🛠️ Technology Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,java,cpp,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vite" />
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ## 🧠 Code Visualizer
 
-An experimental developer tool designed to **visualize program execution step-by-step**.
+### `Understand code by watching it execute`
 
-```text
-Source Code
-     ↓
-Instrumentation
-     ↓
-Compilation
-     ↓
-Execution
-     ↓
-Trace Parser
-     ↓
-Snapshots
-     ↓
-Visualization
+<img src="https://img.shields.io/badge/Java-Execution%20Engine-orange?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Visualizer-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monaco-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+```text id="4d9h3p"
+                         JAVA SOURCE
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │  INSTRUMENTATION │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │  JAVA COMPILER   │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │    EXECUTION     │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │   TRACE ENGINE   │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ SNAPSHOT PARSER  │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │   VISUALIZATION  │
+                    └──────────────────┘
 ```
 
-**Engineering Areas**
+**Core concepts**
 
-`Java` `React` `Node.js` `Monaco Editor`
-
-• Execution tracing
-• Variable-state snapshots
-• Array visualization
-• Recursion tracing
-• Code instrumentation
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💬 QuickChat
-
-Real-time messaging application built around persistent conversations and live communication.
-
-```text
-React Client
-     ↓
-Socket.IO
-     ↓
-Node / Express
-     ↓
-MongoDB
-```
-
-**Engineering Areas**
-
-`React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-• Real-time messaging
-• Authentication
-• Conversation persistence
-• Socket lifecycle
-• Responsive UI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🏪 Youlyst
-
-Full-stack marketplace platform supporting product listings and user workflows.
-
-```text
-Next.js
-   ↓
-Application Layer
-   ↓
-REST APIs
-   ↓
-MongoDB
-```
-
-**Engineering Areas**
-
-`Next.js` `React` `Node.js` `MongoDB`
-
-• Listings
-• Search & filters
-• Pagination
-• Authentication
-• Media management
-• Real-time features
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏋️ GymPlanr
-
-Interactive workout planning application focused on flexible scheduling and visualization.
-
-```text
-Workout Data
-     ↓
-Redux State
-     ↓
-Drag & Drop
-     ↓
-Analytics
-```
-
-**Engineering Areas**
-
-`React` `Redux Toolkit` `Tailwind` `dnd-kit` `Recharts`
-
-• Workout planning
-• Drag-and-drop interactions
-• State management
-• Progress visualization
-
-</td>
-</tr>
-</table>
+`Code Instrumentation` `Execution Tracing` `Variable State` `Arrays` `Recursion` `Control Flow`
 
 ---
 
-# 🧠 How I Think About Engineering
+<div align="center">
 
-```text
-                         PRODUCT
-                            │
-             ┌──────────────┼──────────────┐
-             │              │              │
-             ▼              ▼              ▼
-         FRONTEND        BACKEND         DATA
-             │              │              │
-             └──────────────┼──────────────┘
+## 💬 QuickChat
+
+### `Real-time communication built from the ground up`
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-API-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+
+</div>
+
+```text id="4n5n0z"
+                     ┌───────────────┐
+                     │  REACT CLIENT │
+                     └───────┬───────┘
+                             │
+                 ┌───────────┴───────────┐
+                 │                       │
+                 ▼                       ▼
+           REST API                 SOCKET.IO
+                 │                       │
+                 └───────────┬───────────┘
+                             ▼
+                    ┌────────────────┐
+                    │ NODE / EXPRESS │
+                    └───────┬────────┘
                             │
                             ▼
-                       ARCHITECTURE
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-         PERFORMANCE     SECURITY     RELIABILITY
-              │             │             │
-              └─────────────┼─────────────┘
-                            ▼
-                       USER EXPERIENCE
+                    ┌────────────────┐
+                    │    MONGODB     │
+                    └────────────────┘
 ```
 
-For me, software engineering isn't just about writing code.
+**Built with**
 
-It's about understanding the entire journey from:
+`Real-Time Messaging` `Authentication` `Persistent Conversations` `Socket Events` `Responsive UI`
 
-**user interaction → application state → API → database → infrastructure → response.**
+---
+
+<div align="center">
+
+## 🏋️ GymPlanr
+
+### `Interactive workout planning with state-driven UI`
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/dnd--kit-Drag%20%26%20Drop-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recharts-Analytics-8884D8?style=flat-square"/>
+
+</div>
+
+```text id="z2z5yr"
+              WORKOUT DATA
+                    │
+                    ▼
+             REDUX STATE
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+     DRAG & DROP          WORKOUT LOGIC
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+               ANALYTICS
+                    │
+                    ▼
+             PROGRESS VIEW
+```
+
+---
+
+# 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,java,cpp,sql"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vite"/>
+
+</div>
+
+---
+
+# 🧬 My Engineering Stack
+
+```text id="m7g8kq"
+                         SOFTWARE ENGINEERING
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+          FRONTEND             BACKEND              DATA
+              │                   │                   │
+        ┌─────┼─────┐       ┌─────┼─────┐       ┌─────┴─────┐
+        ▼     ▼     ▼       ▼     ▼     ▼       ▼           ▼
+      React Next  Tailwind Node  REST Socket  MongoDB      MySQL
+        │           │        │      │      │
+        └───────────┴────────┴──────┴──────┘
+                          │
+                          ▼
+                    APPLICATION
+                     ARCHITECTURE
+                          │
+              ┌───────────┼───────────┐
+              ▼           ▼           ▼
+         PERFORMANCE   SECURITY   RELIABILITY
+```
 
 ---
 
 # 🔬 Currently Exploring
 
-```text
-System Design
-     │
-     ├── Scalability
-     ├── Caching
-     ├── Database Design
-     ├── API Architecture
-     └── Distributed Systems
+<div align="center">
 
-Frontend Engineering
-     │
-     ├── Next.js
-     ├── TypeScript
-     ├── Performance
-     ├── Rendering
-     └── Architecture
+<table>
+<tr>
 
-Backend Engineering
-     │
-     ├── Node.js
-     ├── Authentication
-     ├── WebSockets
-     ├── API Design
-     └── Background Processing
-```
+<td align="center">
+
+### 🏗️ System Design
+
+Scalability
+Caching
+Database Design
+API Architecture
+Distributed Systems
+
+</td>
+
+<td align="center">
+
+### ⚡ Web Engineering
+
+Next.js
+TypeScript
+Performance
+Rendering
+State Management
+
+</td>
+
+<td align="center">
+
+### 🔌 Backend Systems
+
+Node.js
+WebSockets
+Authentication
+API Design
+Background Processing
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan11110&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohan11110&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan11110&theme=github-dark-blue&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan11110&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
-<br/>
+<br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan11110&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan11110&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -376,64 +418,71 @@ Backend Engineering
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan11110&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan11110&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contributions
+# 🧠 Problem Solving
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohan11110/rohan11110/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<a href="https://leetcode.com/rohan_vimal/">
+
+<img src="https://leetcard.jacoblin.cool/rohan_vimal?theme=dark&font=baloo&ext=heatmap" width="500"/>
+
+</a>
 
 </div>
 
-> The contribution snake requires a GitHub Actions workflow to generate the SVG.
-
 ---
 
-# 💡 Engineering Interests
+# 🎯 Engineering Philosophy
 
 <div align="center">
 
-`Full-Stack Development`
-  •  
-`Developer Tools`
-  •  
-`System Design`
-  •  
-`Real-Time Systems`
-
-`Web Performance`
-  •  
-`Scalable APIs`
-  •  
-`Open Source`
-  •  
-`Problem Solving`
+```text id="5oh5ul"
+             Don't just make it work.
+                       │
+                       ▼
+             Understand why it works.
+                       │
+                       ▼
+             Understand how it breaks.
+                       │
+                       ▼
+             Make it reliable.
+                       │
+                       ▼
+             Make it scalable.
+                       │
+                       ▼
+             Make it simple.
+```
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in discussing **software engineering, interesting products, developer tools, open source, and challenging engineering problems**.
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/rohanvimal">
-<img src="https://img.shields.io/badge/LinkedIn-Rohan_Vimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rohan%20Vimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rohan2k25@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-rohan2k25-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.leetcode.com/rohan_vimal">
+<a href="https://leetcode.com/rohan_vimal">
 <img src="https://img.shields.io/badge/LeetCode-rohan__vimal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://instagram.com/mr.rohan_1110">
+<img src="https://img.shields.io/badge/Instagram-mr.rohan__1110-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -446,6 +495,6 @@ I'm always interested in discussing **software engineering, interesting products
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
 
 </div>
